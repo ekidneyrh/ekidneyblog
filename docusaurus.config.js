@@ -90,7 +90,7 @@ const config = {
               },
               {
                 label: 'IRC: @ekidney:matix.org'
-              }
+              },
               {
                 label: 'Email: ekidney@redhat.com'
               }
