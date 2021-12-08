@@ -5,7 +5,7 @@ authors:
   name: Emma Kidney
   title: Intern @ Red Hat CPE
   image_url: https://github.com/ekidneyrh.png
-tags: [intro, docusaurus]
+tags: [intro, 2021]
 ---
 
 Hello! My name is Emma Kidney. I am currently an intern for the CPE (Community Platform Engineering) team at Red Hat.
