@@ -65,33 +65,39 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Community',
+            title: 'Fedora Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Join Fedora',
+                href: 'https://docs.fedoraproject.org/en-US/project/join/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/fedoracommunity',
+              },
+              {
+                label: 'Fedora Magazine',
+                href: 'https://fedoramagazine.org/',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'More from ekidney',
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ekidneyrh',
               },
+              {
+                label: 'IRC: @ekidney:matix.org'
+              }
+              {
+                label: 'Email: ekidney@redhat.com'
+              }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: 'Built with Docusaurus.',
       },
       prism: {
         theme: lightCodeTheme,
