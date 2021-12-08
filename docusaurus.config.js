@@ -55,7 +55,7 @@ const config = {
          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ekidneyrh/ekidneyblog',
             label: 'GitHub',
             position: 'right',
           },
@@ -89,10 +89,12 @@ const config = {
                 href: 'https://github.com/ekidneyrh',
               },
               {
-                label: 'IRC: @ekidney:matix.org'
+                label: 'IRC: @ekidney:matix.org',
+                href: '/'
               },
               {
-                label: 'Email: ekidney@redhat.com'
+                label: 'Email: ekidney@redhat.com',
+                href: '/'
               }
             ],
           },
