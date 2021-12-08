@@ -44,7 +44,7 @@ const config = {
         title: 'ekidneys blog',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/profile.jpeg',
+          src: 'img/icon-black.jpeg',
         },
         items: [
          // {
