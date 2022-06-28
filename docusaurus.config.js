@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/icon-black.png',
+  favicon: 'img/eknew3.png',
   organizationName: 'ekidneyrh', // Usually your GitHub org/user name.
   projectName: 'ekidneyblog', // Usually your repo name.
 
@@ -44,7 +44,7 @@ const config = {
         title: 'ekidneys blog',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/icon-black.png',
+          src: 'img/eknew3.png',
         },
         items: [
          // {
